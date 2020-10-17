@@ -8,7 +8,7 @@ Sync BeatSaber event to NanoLeaf Canvas
 * [NanoBeat Mode](#nanobeat-mode)
 * [Patch Notes](#patch-notes)
 * [Updates](#updates)
-* [Requierments](#requierments)
+* [Requierements](#requierements)
 * [Credits](#credits)
 
 ## General info
@@ -44,5 +44,5 @@ and then follow the step given by the script
 * Beatsaber http-status plugin
 
 ## Credits
-Based on mqttproxy by [@Elektrospy](https://github.com/Elektrospy/BeatSaberMqttProxy)
-and on [@opl-](https://github.com/opl-/beatsaber-http-status)
+* Based on mqttproxy by [@Elektrospy](https://github.com/Elektrospy/BeatSaberMqttProxy)
+* and on http-status by [@opl-](https://github.com/opl-/beatsaber-http-status)
