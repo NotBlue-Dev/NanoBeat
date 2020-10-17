@@ -23,11 +23,11 @@ and then follow the step given by the script
 * Generate token : hold power button of the nanoleaf for 5-7s then type done
 
 ## NanoBeat Mode
-* Saber, blue when right saber, red when left saber, if touch a bomb orange color and if hit a wall orange while you are in
-* Light, connect to 5 light : center, left, right, big, small, color(blue-red) vary for each light
-* Chroma[Incoming], Like the chroma light mode, rainbow light instead of blue red
-* ScoreNote[Incoming], Color different for each score on the note, green if 115, orange if 90 ...
-* Score[Incoming], like ScoreNote but for Score (SS, S, A, B, C)
+* **Saber**, blue when right saber, red when left saber, if touch a bomb orange color and if hit a wall orange while you are in
+* **Light**, connect to 5 light : center, left, right, big, small, color(blue-red) vary for each light
+* **Chroma**[Incoming], Like the chroma light mode, rainbow light instead of blue red
+* **ScoreNote**[Incoming], Color different for each score on the note, green if 115, orange if 90 ...
+* **Score**[Incoming], like ScoreNote but for Score (SS, S, A, B, C)
 
 ## Patch Notes
 * Light Blue showing red on the nanoleaf
