@@ -13,18 +13,6 @@ modes = input("Choose a mode : \n Saber \n Light \n")
 
 nest_asyncio.apply()
 
-def on_connect(client, userdata, flags, rc):
-    print("Connected with result code " + str(rc))
-
-
-def on_publish(client, userdata, mid):
-    print("mid: "+str(mid))
-
-
-def on_message(client, userdata, message):
-    msg = message.payload.decode("utf-8")
-    print('received message: {}'.format(msg))
-
 def parse_json(input_json):
     json_content = json.loads(input_json)
     current_event = json_content["event"]
