@@ -9,7 +9,7 @@ from saber import *
 import paho.mqtt.client as mqtt
 import nest_asyncio
 
-modes = input("Choose a mode : \n Saber \n Light \n More info on github \n")
+modes = input("Choose a mode : \n Saber \n Light \n")
 
 nest_asyncio.apply()
 
