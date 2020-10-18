@@ -2,7 +2,7 @@
 """
 Created on Wed Oct 14 21:20:52 2020
 
-@author: Enzo
+@author: NotBlue
 """
 from nanoleafapi import Nanoleaf
 from nanoleafapi import discovery
