@@ -2,7 +2,7 @@
 """
 Created on Fri Oct 16 19:06:02 2020
 
-@author: Enzo
+@author: NotBlue
 """
 from light import *
 from nanoleaf import *
