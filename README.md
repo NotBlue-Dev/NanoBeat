@@ -42,7 +42,8 @@ and then follow the step given by the script
 * Bomb event
 
 ## Demos
-
+* Live Demo : https://www.youtube.com/watch?v=bIAraV3Dl6A
+* 
 
 ## Requierements 
 * (External) Beatsaber http-status plugin
