@@ -43,9 +43,9 @@ and then follow the step given by the script
 
 ## Demos
 * Live Demo : https://www.youtube.com/watch?v=bIAraV3Dl6A
-* GUI : 
-* ![Capture](https://user-images.githubusercontent.com/64601123/97317710-62051680-186b-11eb-94fa-71959c201643.PNG)
-* 
+* GUI 
+![Capture](https://user-images.githubusercontent.com/64601123/97317710-62051680-186b-11eb-94fa-71959c201643.PNG)
+![1](https://user-images.githubusercontent.com/64601123/97317802-7812d700-186b-11eb-88a5-698e0a83cd97.PNG)
 
 ## Requierements 
 * (External) Beatsaber http-status plugin
