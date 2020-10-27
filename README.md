@@ -8,6 +8,7 @@ Sync BeatSaber event to NanoLeaf Canvas
 * [NanoBeat Mode](#nanobeat-mode)
 * [Patch Notes](#patch-notes)
 * [Updates](#updates)
+* [Demos](#demos)
 * [Requierements](#requierements)
 * [Credits](#credits)
 
@@ -40,8 +41,11 @@ and then follow the step given by the script
 * Wall event
 * Bomb event
 
+## Demos
+
+
 ## Requierements 
-* Beatsaber http-status plugin
+* (External) Beatsaber http-status plugin
 
 ## Working on
 * GUI and .exe instead of .py
