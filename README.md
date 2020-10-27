@@ -43,6 +43,8 @@ and then follow the step given by the script
 
 ## Demos
 * Live Demo : https://www.youtube.com/watch?v=bIAraV3Dl6A
+* GUI : 
+* ![Capture](https://user-images.githubusercontent.com/64601123/97317710-62051680-186b-11eb-94fa-71959c201643.PNG)
 * 
 
 ## Requierements 
