@@ -34,8 +34,14 @@ and then follow the step given by the script
 * Light Blue showing red on the nanoleaf
 * Sync issue(delay to big)
 * Websocket connection error(partially fixed)
+* Ip not display after restart
+* Error while creating the connect.txt file
+* Websocket disconnection repaired
+* App freeze durring game
+* Issue when choose the mode
 
 ## Updates
+* GUI
 * Added Saber mode
 * Added a system to connect the nanoleaf instead of change the variable (input)
 * Wall event
