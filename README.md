@@ -58,7 +58,7 @@ and then follow the step given by the script
 * (External) Beatsaber http-status plugin
 
 ## Working on
-* GUI and .exe instead of .py
+* Chroma, Score mode
 
 ## Credits
 * Based on mqttproxy by [@Elektrospy](https://github.com/Elektrospy/BeatSaberMqttProxy)
