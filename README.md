@@ -16,12 +16,12 @@ Sync BeatSaber event to NanoLeaf Canvas
 This project will link event from beatsaber like light or hitblock, bombhit, wallhit etc to your nanoleaf and change color in function of this event
 	
 ## Setup
-To run this project you need to run 'connection.py'
-and then follow the step given by the script
+To run this project you need to run 'nanoleaf.py' in src
+and then scan for ip and generate a token
 
 ## Advanced Information
-* Scan ip for nanoleaf : it will scan your network and try to find your canvas if it don't find it you will need to find it yourself
-* Generate token : hold power button of the nanoleaf for 5-7s then type done
+* Scan ip: it will scan your network and try to find your canvas if it don't find it you will need to find it yourself
+* Generate token : hold power button of the nanoleaf for 5-7s 
 
 ## NanoBeat Mode
 * **Saber**, blue when right saber, red when left saber, if touch a bomb orange color and if hit a wall orange while you are in
