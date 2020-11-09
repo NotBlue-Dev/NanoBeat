@@ -66,4 +66,4 @@ and then scan for ip and generate a token
 
 ## Stats
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NotBlue-Dev&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NotBlue-Dev&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
