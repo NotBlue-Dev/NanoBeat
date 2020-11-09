@@ -66,6 +66,3 @@ and then scan for ip and generate a token
 * Based on mqttproxy by [@Elektrospy](https://github.com/Elektrospy/BeatSaberMqttProxy)
 * and on http-status by [@opl-](https://github.com/opl-/beatsaber-http-status)
 
-## Stats
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=NotBlue-Dev&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
