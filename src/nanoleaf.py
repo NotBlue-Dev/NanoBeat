@@ -9,7 +9,6 @@ from nanoleafapi import discovery
 from nanoleafapi import Nanoleaf
 from nanoleafapi import RED, ORANGE, YELLOW, GREEN, LIGHT_BLUE, BLUE, PINK, PURPLE, WHITE
 import os
-from appJar import gui
 from kivy.app import App
 from kivy.uix.label import Label
 from kivy.uix.widget import Widget
