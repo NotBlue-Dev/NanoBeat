@@ -61,7 +61,8 @@ execute the program choose a display and create a token, choose a mode that it's
 * (External) DataPuller 
 
 ## Working on
-* Chroma, more stable light mode
+* Chroma 
+* more stable light mode
 * repair the ip bug if you have two nanoleafs devices
 
 ## Credits
